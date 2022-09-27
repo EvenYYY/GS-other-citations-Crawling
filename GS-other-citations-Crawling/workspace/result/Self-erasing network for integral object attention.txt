@@ -1,0 +1,131 @@
+[1]Wang Yude, Zhang Jie, Kan Meina, Shan Shiguang, Chen Xilin. Self-supervised equivariant attention mechanism for weakly supervised semantic segmentation. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020
+[2]Sun Guolei, Wang Wenguan, Dai Jifeng, Van Gool Luc. Mining cross-image semantics for weakly supervised semantic segmentation. European conference on computer vision, 2020
+[3]Chang Yu-Ting, Wang Qiaosong, Hung Wei-Chih, Piramuthu Robinson, Tsai Yi-Hsuan, Yang Ming-Hsuan. Weakly-supervised semantic segmentation via sub-category exploration. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020
+[4]Chen Xuesong, Fu Canmiao, Zhao Yong, Zheng Feng, Song Jingkuan, Ji Rongrong, Yang Yi. Salience-guided cascaded suppression network for person re-identification. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020
+[5]Liu Xihui, Wang Zihao, Shao Jing, Wang Xiaogang, Li Hongsheng. Improving referring expression grounding with cross-modal attention-guided erasing. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2019
+[6]Xue Haolan, Liu Chang, Wan Fang, Jiao Jianbin, Ji Xiangyang, Ye Qixiang. Danet: Divergent activation for weakly supervised object localization. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2019
+[7]Shimoda Wataru, Yanai Keiji. Self-supervised difference detection for weakly-supervised semantic segmentation. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2019
+[8]Fan Junsong, Zhang Zhaoxiang, Tan Tieniu, Song Chunfeng, Xiao Jun. Cian: Cross-image affinity net for weakly supervised semantic segmentation. Proceedings of the AAAI Conference on Artificial Intelligence, 2020
+[9]Hsu Cheng-Chun, Hsu Kuang-Jui, Tsai Chung-Chi, Lin Yen-Yu, Chuang Yung-Yu. Weakly supervised instance segmentation using the bounding box tightness prior. Advances in Neural Information Processing Systems, 2019
+[10]Araslanov Nikita, Roth Stefan. Single-stage semantic segmentation from image labels. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020
+[11]Fan Junsong, Zhang Zhaoxiang, Song Chunfeng, Tan Tieniu. Learning integral objects with intra-class discriminator for weakly-supervised semantic segmentation. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020
+[12]Ji Zhong, Wang Haoran, Han Jungong, Pang Yanwei. Saliency-guided attention network for image-sentence matching. Proceedings of the IEEE/CVF international conference on computer vision, 2019
+[13]Zhang Zhao, Lin Zheng, Xu Jun, Jin Wen-Da, Lu Shao-Ping, Fan Deng-Ping. Bilateral attention network for RGB-D salient object detection. IEEE Transactions on Image Processing, 2021
+[14]Mai Jinjie, Yang Meng, Luo Wenfeng. Erasing integrated learning: A simple yet effective approach for weakly supervised object localization. Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2020
+[15]Zou Yuliang, Zhang Zizhao, Zhang Han, Li Chun-Liang, Bian Xiao, Huang Jia-Bin, Pfister Tomas. Pseudoseg: Designing pseudo labels for semantic segmentation. arXiv preprint arXiv:2010.09713, 2020
+[16]Bae Wonho, Noh Junhyug, Kim Gunhee. Rethinking class activation mapping for weakly supervised object localization. European Conference on Computer Vision, 2020
+[17]Lee Jungbeom, Kim Eunji, Lee Sungmin, Lee Jangho, Yoon Sungroh. Frame-to-frame aggregation of active regions in web videos for weakly supervised semantic segmentation. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2019
+[18]Li Jiayun, Li Wenyuan, Gertych Arkadiusz, Knudsen Beatrice S, Speier William, Arnold Corey W. An attention-based multi-resolution model for prostate whole slide imageclassification and localization. arXiv preprint arXiv:1905.13208, 2019
+[19]Li Xueyi, Zhou Tianfei, Li Jianwu, Zhou Yi, Zhang Zhaoxiang. Group-wise semantic mining for weakly supervised semantic segmentation. arXiv preprint arXiv:2012.05007, 2020
+[20]Zhang Tianyi, Lin Guosheng, Liu Weide, Cai Jianfei, Kot Alex. Splitting vs. merging: Mining object regions with discrepancy and intersection loss for weakly supervised semantic segmentation. European Conference on Computer Vision, 2020
+[21]Yao Yazhou, Chen Tao, Xie Guo-Sen, Zhang Chuanyi, Shen Fumin, Wu Qi, Tang Zhenmin, Zhang Jian. Non-salient region object mining for weakly supervised semantic segmentation. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021
+[22]Fan Junsong, Zhang Zhaoxiang, Tan Tieniu. Employing multi-estimations for weakly-supervised semantic segmentation. European Conference on Computer Vision, 2020
+[23]Song Yi-Fan, Zhang Zhang, Shan Caifeng, Wang Liang. Richly activated graph convolutional network for robust skeleton-based action recognition. IEEE Transactions on Circuits and Systems for Video Technology, 2020
+[24]Yao Qi, Gong Xiaojin. Saliency guided self-attention network for weakly and semi-supervised semantic segmentation. IEEE Access, 2020
+[25]Lee Jungbeom, Kim Eunji, Yoon Sungroh. Anti-adversarially manipulated attributions for weakly and semi-supervised semantic segmentation. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021
+[26]Li Yazhao, Pang Yanwei, Shen Jianbing, Cao Jiale, Shao Ling. NETNet: Neighbor erasing and transferring network for better single shot object detection. Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2020
+[27]Liu Fei, Liu Jing, Hong Richang, Lu Hanqing. Erasing-based attention learning for visual question answering. Proceedings of the 27th ACM International Conference on Multimedia, 2019
+[28]Luo Wenfeng, Yang Meng. Semi-supervised semantic segmentation via strong-weak dual-branch network. European Conference on Computer Vision, 2020
+[29]Li Jiayun, Li Wenyuan, Sisk Anthony, Ye Huihui, Wallace W Dean, Speier William, Arnold Corey W. A multi-resolution model for histopathology image classification and localization with multiple instance learning. Computers in biology and medicine, 2021
+[30]Lee Jungbeom, Yi Jihun, Shin Chaehun, Yoon Sungroh. BBAM: Bounding box attribution map for weakly supervised semantic and instance segmentation. Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2021
+[31]Liu Weide, Zhang Chi, Lin Guosheng, Hung Tzu-Yi, Miao Chunyan. Weakly supervised segmentation with maximum bipartite graph matching. Proceedings of the 28th ACM International Conference on Multimedia, 2020
+[32]Xiao Junsheng, Xu Huahu, Gao Honghao, Bian Minjie, Li Yang. A weakly supervised semantic segmentation network by aggregating seed cues: the multi-object proposal generation perspective. ACM Transactions on Multimidia Computing Communications and Applications, 2021
+[33]Chang Yu-Ting, Wang Qiaosong, Hung Wei-Chih, Piramuthu Robinson, Tsai Yi-Hsuan, Yang Ming-Hsuan. Mixup-cam: Weakly-supervised semantic segmentation via uncertainty regularization. arXiv preprint arXiv:2008.01201, 2020
+[34]Lee Seungho, Lee Minhyun, Lee Jongwuk, Shim Hyunjung. Railroad is not a train: Saliency as pseudo-pixel supervision for weakly supervised semantic segmentation. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021
+[35]Jo Sanghyun, Yu In-Jae. Puzzle-CAM: Improved localization via matching partial and full features. 2021 IEEE International Conference on Image Processing (ICIP), 2021
+[36]Wang Yude, Zhang Jie, Kan Meina, Shan Shiguang, Chen Xilin. Self-supervised scale equivariant network for weakly supervised semantic segmentation. arXiv preprint arXiv:1909.03714, 2019
+[37]Feng Jiapei, Wang Xinggang, Liu Wenyu. Deep graph cut network for weakly-supervised semantic segmentation. Science China Information Sciences, 2021
+[38]Ki Minsong, Uh Youngjung, Lee Wonyoung, Byun Hyeran. In-sample contrastive learning and consistent attention for weakly supervised object localization. Proceedings of the Asian Conference on Computer Vision, 2020
+[39]Zhmoginov Andrey, Fischer Ian, Sandler Mark. Information-bottleneck approach to salient region discovery. Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2020
+[40]Yang Yifan, Li Guorong, Du Dawei, Huang Qingming, Sebe Nicu. Embedding perspective analysis into multi-column convolutional neural network for crowd counting. IEEE Transactions on Image Processing, 2020
+[41]Kim Beomyoung, Han Sangeun, Kim Junmo. Discriminative region suppression for weakly-supervised semantic segmentation. Proceedings of the AAAI Conference on Artificial Intelligence, 2021
+[42]Sun Xin, Chen Changrui, Dong Junyu, Liu Dan, Hu Guosheng. Exploring ubiquitous relations for boosting classification and localization. Knowledge-Based Systems, 2020
+[43]Wu Tong, Huang Junshi, Gao Guangyu, Wei Xiaoming, Wei Xiaolin, Luo Xuan, Liu Chi Harold. Embedded discriminative attention mechanism for weakly supervised semantic segmentation. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021
+[44]Moniruzzaman Md, Yin Zhaozheng, He Zhihai, Qin Ruwen, Leu Ming C. Action completeness modeling with background aware networks for weakly-supervised temporal action localization. Proceedings of the 28th ACM International Conference on Multimedia, 2020
+[45]Xu Lian, Ouyang Wanli, Bennamoun Mohammed, Boussaid Farid, Sohel Ferdous, Xu Dan. Leveraging auxiliary tasks with affinity learning for weakly supervised semantic segmentation. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021
+[46]Oh Youngmin, Kim Beomjun, Ham Bumsub. Background-aware pooling and noise-aware loss for weakly-supervised semantic segmentation. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021
+[47]Zhou Lei, Gong Chen, Liu Zhi, Fu Keren. SAL: Selection and attention losses for weakly supervised semantic segmentation. IEEE Transactions on Multimedia, 2020
+[48]Luo Ronghua, Huang Huailin, Wu WeiZeng. Salient object detection based on backbone enhanced network. Image and Vision Computing, 2020
+[49]Ji Jian, Shi Rui, Li Sitong, Chen Peng, Miao Qiguang. Encoder-decoder with cascaded CRFs for semantic segmentation. IEEE Transactions on Circuits and Systems for Video Technology, 2020
+[50]Baek Donghyeon, Oh Youngmin, Ham Bumsub. Exploiting a joint embedding space for generalized zero-shot semantic segmentation. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021
+[51]Wu Tianyi, Tang Sheng, Zhang Rui, Guo Guodong. Consensus feature network for scene parsing. IEEE Transactions on Multimedia, 2021
+[52]Huang Yi-Jie, Liu Weiping, Wang Xiuying, Fang Qu, Wang Renzhen, Wang Yi, Chen Huai, Chen Hao, Meng Deyu, Wang Lisheng. Rectifying supporting regions with mixed and active supervision for rib fracture recognition. IEEE Transactions on Medical Imaging, 2020
+[53]Meng Meng, Zhang Tianzhu, Tian Qi, Zhang Yongdong, Wu Feng. Foreground activation maps for weakly supervised object localization. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021
+[54]Li Yazhao, Pang Yanwei, Cao Jiale, Shen Jianbing, Shao Ling. Improving single shot object detection with feature scale unmixing. IEEE Transactions on Image Processing, 2021
+[55]Li Yi, Kuang Zhanghui, Liu Liyang, Chen Yimin, Zhang Wayne. Pseudo-mask matters in weakly-supervised semantic segmentation. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021
+[56]Padilha Rafael, "Andal{\\o". Improving the chronological sorting of images through occlusion: A study on the notre-dame cathedral fire. ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020
+[57]Liu Haozhe, Zhang Wentian, Liu Feng, Wu Haoqian, Shen Linlin. Fingerprint presentation attack detector using global-local model. IEEE Transactions on Cybernetics, 2021
+[58]Xu Lian, Xue Hao, Bennamoun Mohammed, Boussaid Farid, Sohel Ferdous. Atrous convolutional feature network for weakly supervised semantic segmentation. Neurocomputing, 2021
+[59]Ru Lixiang, Du Bo, Wu Chen. Learning visual words for weakly-supervised semantic segmentation. International Joint Conference on Artificial Intelligence, 2021
+[60]Luo Wenfeng, Yang Meng, Zheng Weishi. Weakly-supervised semantic segmentation with saliency and incremental supervision updating. Pattern Recognition, 2021
+[61]Zhang Fei, Gu Chaochen, Zhang Chenyue, Dai Yuchao. Complementary patch for weakly supervised semantic segmentation. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021
+[62]Su Yukun, Sun Ruizhou, Lin Guosheng, Wu Qingyao. Context decoupling augmentation for weakly supervised semantic segmentation. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021
+[63]Lee Jeong Ryong, Kim Sewon, Park Inyong, Eo Taejoon, Hwang Dosik. Relevance-cam: Your model already knows where to look. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021
+[64]Lifchitz Yann, Avrithis Yannis, Picard Sylvaine. Few-shot few-shot learning and the role of spatial attention. 2020 25th International Conference on Pattern Recognition (ICPR), 2021
+[65]Liu Jiahui, Yu Changqian, Yang Beibei, Gao Changxin, Sang Nong. CSENet: Cascade semantic erasing network for weakly-supervised semantic segmentation. Neurocomputing, 2021
+[66]Stammes Erik, Runia Tom FH, Hofmann Michael, Ghafoorian Mohsen. Find it if you can: end-to-end adversarial erasing for weakly-supervised semantic segmentation. Thirteenth International Conference on Digital Image Processing (ICDIP 2021), 2021
+[67]Lee Jungbeom, Choi Jooyoung, Mok Jisoo, Yoon Sungroh. Reducing Information Bottleneck for Weakly Supervised Semantic Segmentation. Advances in Neural Information Processing Systems, 2021
+[68]Cen Jun, Sun Han, Chen Xinyi, Liu Ningzhong, Liang Dong, Zhou Huiyu. WFNet: a wider and finer network for salient object detection. IEEE Access, 2020
+[69]Shi Caijuan, Zhang Weiming, Duan Changyu, Chen Houru. A pooling-based feature pyramid network for salient object detection. Image and Vision Computing, 2021
+[70]Kweon Hyeokjun, Yoon Sung-Hoon, Kim Hyeonseong, Park Daehee, Yoon Kuk-Jin. Unlocking the potential of ordinary classifier: Class-specific adversarial erasing framework for weakly supervised semantic segmentation. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021
+[71]Luo Wenfeng, Yang Meng. Learning saliency-free model with generic features for weakly-supervised semantic segmentation. Proceedings of the AAAI Conference on Artificial Intelligence, 2020
+[72]Ru Lixiang, Du Bo, Zhan Yibing, Wu Chen. Weakly-Supervised Semantic Segmentation with Visual Words Learning and Hybrid Pooling. International Journal of Computer Vision, 2022
+[73]Wang Zhenyu, Zhang Yunzhou, Liu Yan, Liu Shichang, Coleman Sonya, Kerr Dermot. MFC-Net: Multi-feature fusion cross neural network for salient object detection. Image and Vision Computing, 2021
+[74]Seibold Constantin, Kleesiek Jens, Schlemmer Heinz-Peter, Stiefelhagen Rainer. Self-Guided Multiple Instance Learning for Weakly Supervised Thoracic DiseaseClassification and Localizationin Chest Radiographs. Proceedings of the Asian Conference on Computer Vision, 2020
+[75]Chen Huaian, Jin Yi, Jin Guoqiang, Zhu Changan, Chen Enhong. Semisupervised semantic segmentation by improving prediction confidence. IEEE Transactions on Neural Networks and Learning Systems, 2021
+[76]Xu Jingshan, Zhou Chuanwei, Cui Zhen, Xu Chunyan, Huang Yuge, Shen Pengcheng, Li Shaoxin, Yang Jian. Scribble-Supervised Semantic Segmentation Inference. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021
+[77]Seibold Constantin, Kleesiek Jens, Schlemmer Heinz-Peter, Stiefelhagen Rainer. Self-guided Multiple Instance Learning for Weakly Supervised Disease Classification and Localization in Chest Radiographs. Asian Conference on Computer Vision, 2020
+[78]Xu Lian, Bennamoun Mohammed, Boussaid Farid, Sohel Ferdous. Scale-aware feature network for weakly supervised semantic segmentation. IEEE Access, 2020
+[79]Zhou Tianfei, Zhang Meijie, Zhao Fang, Li Jianwu. Regional semantic contrast and aggregation for weakly supervised semantic segmentation. arXiv preprint arXiv:2203.09653, 2022
+[80]Liu Qing, Ramanathan Vignesh, Mahajan Dhruv, Yuille Alan, Yang Zhenheng. Weakly supervised instance segmentation for videos with temporal mask consistency. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021
+[81]Liu Haozhe, Wu Haoqian, Xie Weicheng, Liu Feng, Shen Linlin. Group-wise Inhibition based Feature Regularization for Robust Classification. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021
+[82]Liu Weide, Kong Xiangfei, Hung Tzu-Yi, Lin Guosheng. Cross-Image Region Mining with Region Prototypical Network for Weakly Supervised Segmentation. IEEE Transactions on Multimedia, 2021
+[83]Yi Sheng, Ma Huimin, Wang Xiang, Hu Tianyu, Li Xi, Wang Yu. Weakly-supervised semantic segmentation with superpixel guided local and global consistency. Pattern Recognition, 2022
+[84]Ismail Aya Abdelsalam, Corrada Bravo Hector, Feizi Soheil. Improving Deep Learning Interpretability by Saliency Guided Training. Advances in Neural Information Processing Systems, 2021
+[85]Xie Chaohao, Ren Dongwei, Wang Lei, Hu Qinghua, Lin Liang, Zuo Wangmeng. Learning class-agnostic pseudo mask generation for box-supervised semantic segmentation. arXiv preprint arXiv:2103.05463, 2021
+[86]Tong Mingsi, Li Wencong, Ren Xinyang, Yu Xinghu, Lin Weiyang. Weakly-supervised semantic segmentation with regional location cutting and dynamic credible regions correction. IEEE Access, 2020
+[87]Zhou Tianfei, Li Liulei, Li Xueyi, Feng Chun-Mei, Li Jianwu, Shao Ling. Group-Wise Learning for Weakly Supervised Semantic Segmentation. IEEE Transactions on Image Processing, 2021
+[88]Vilar Daniel R, Perez Claudio A. Extracting Structured Supervision From Captions for Weakly Supervised Semantic Segmentation. IEEE Access, 2021
+[89]Cermelli Fabio, Fontanel Dario, Tavera Antonio, Ciccone Marco, Caputo Barbara. Incremental Learning in Semantic Segmentation from Image Labels. arXiv preprint arXiv:2112.01882, 2021
+[90]Pan Junwen, Zhu Pengfei, Zhang Kaihua, Cao Bing, Wang Yu, Zhang Dingwen, Han Junwei, Hu Qinghua. Learning Self-supervised Low-Rank Network for Single-Stage Weakly and Semi-supervised Semantic Segmentation. International Journal of Computer Vision, 2022
+[91]Yu Jiaruo, Ge Yongxin, Qin Xiaolei, Li Ziqiang, Huang Sheng, Chen Feiyu. Deep feature enhancing and selecting network for weakly supervised temporal action localization. Journal of Visual Communication and Image Representation, 2021
+[92]Xie Jinheng, Xiang Jianfeng, Chen Junliang, Hou Xianxu, Zhao Xiaodong, Shen Linlin. Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation. arXiv preprint arXiv:2203.13505, 2022
+[93]Lin Yaping, Vosselman George, Yang Michael Ying. Weakly supervised semantic segmentation of airborne laser scanning point clouds. ISPRS Journal of Photogrammetry and Remote Sensing, 2022
+[94]Lee Wonyoung, Ki Minsong, Mun Cheolhyun, Kho Sungpil, Byun13 Hyeran, Team AI Imaging Tech, Uplus LG. Foreground Mining via Contrastive Guidance for Weakly Supervised Object Localization. NULL, 2021
+[95]Du Ye, Fu Zehua, Liu Qingjie, Wang Yunhong. Weakly Supervised Semantic Segmentation by Pixel-to-Prototype Contrast. arXiv preprint arXiv:2110.07110, 2021
+[96]Avrithis Yannis. Exploring and Learning from Visual Data. NULL, 2020
+[97]Lee Jungbeom, Kim Eunji, Mok Jisoo, Yoon Sungroh. Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022
+[98]Shimoda Wataru, Yanai Keiji. Self-supervised Difference Detection for Refinement CRF and Seed Interpolation.. CVPR Workshops, 2019
+[99]Liu Zhengyi, Wang Kaixun, Dong Hao, Wang Yuan. A cross-modal edge-guided salient object detection for RGB-D image. Neurocomputing, 2021
+[100]Sun Weixuan, Zhang Jing, Barnes Nick. Inferring the Class Conditional Response Map for Weakly Supervised Semantic Segmentation. Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, 2022
+[101]Li Bairong, Zhu Yuesheng, Liu Ruixin, Weng Zhenyu. Learning frame-level affinity with video-level labels for weakly supervised temporal action detection. Neurocomputing, 2021
+[102]Ou Jia-Rong, Deng Shu-Le, Yu Jin-Gang. WS-RCNN: Learning to Score Proposals for Weakly Supervised Instance Segmentation. Sensors, 2021
+[103]Jonnarth Arvi, Felsberg Michael, Zhang Yushan. Activation-Based Sampling for Pixel-to Image-Level Aggregation in Weakly-Supervised Segmentation. arXiv preprint arXiv:2203.12459, 2022
+[104]Chen Chenshu, Liu Tao, Tan Wenming, Pu Shiliang. Mixed-Dual-Head Meets Box Priors: A Robust Framework for Semi-Supervised Segmentation. Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, 2022
+[105]Qin Jie, Wu Jie, Xiao Xuefeng, Li Lujun, Wang Xingang. Activation Modulation and Recalibration Scheme for Weakly Supervised Semantic Segmentation. arXiv preprint arXiv:2112.08996, 2021
+[106]Yoon Sung-Hoon, Kweon Hyeokjun, Jeong Jaeseok, Kim Hyeonseong, Kim Shinjeong, Yoon Kuk-Jin. Exploring Pixel-level Self-supervision for Weakly Supervised Semantic Segmentation. arXiv preprint arXiv:2112.05351, 2021
+[107]Zhang Jinkai, Yan Hui, Chen Tao. Class-related graph convolution for weakly supervised semantic segmentation. Thirteenth International Conference on Digital Image Processing (ICDIP 2021), 2021
+[108]Jin Xiao-Bo, Huang Kai-Zhu, Miao Jianyu. Beyond Attributes: Adversarial Erasing Embedding Network for Zero-shot Learning. arXiv preprint arXiv:1811.07626, 2018
+[109]Zhang Xiangrong, Peng Zelin, Zhu Peng, Zhang Tianyang, Li Chen, Zhou Huiyu, Jiao Licheng. Adaptive Affinity Loss and Erroneous Pseudo-Label Refinement for Weakly Supervised Semantic Segmentation. Proceedings of the 29th ACM International Conference on Multimedia, 2021
+[110]Zhang Jingwei, Ma Ke, Van Arnam John, Gupta Rajarsi, Saltz Joel, Vakalopoulou Maria, Samaras Dimitris. A Joint Spatial and Magnification Based Attention Framework for Large Scale Histopathology Classification. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021
+[111]Lee Minhyun, Kim Dongseob, Shim Hyunjung. Threshold Matters in WSSS: Manipulating the Activation for the Robust and Accurate Segmentation Model Against Thresholds. arXiv preprint arXiv:2203.16045, 2022
+[112]Zhang Dingwen, Zeng Wenyuan, Guo Guangyu, Fang Chaowei, Cheng Lechao, Han Junwei. Weakly Supervised Semantic Segmentation via Alternative Self-Dual Teaching. arXiv preprint arXiv:2112.09459, 2021
+[113]Xu Lian, Ouyang Wanli, Bennamoun Mohammed, Boussaid Farid, Xu Dan. Multi-class Token Transformer for Weakly Supervised Semantic Segmentation. arXiv preprint arXiv:2203.02891, 2022
+[114]Sun Guoying, Yang Meng, Luo Wenfeng. Adversarial Decoupling for Weakly Supervised Semantic Segmentation. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2021
+[115]Meng Meng, Zhang Tianzhu, Yang Wenfei, Zhao Jian, Zhang Yongdong, Wu Feng. Diverse Complementary Part Mining for Weakly Supervised Object Localization. IEEE Transactions on Image Processing, 2022
+[116]Chen Qi, Yang Lingxiao, Lai Jianhuang, Xie Xiaohua. Self-supervised Image-specific Prototype Exploration for Weakly Supervised Semantic Segmentation. arXiv preprint arXiv:2203.02909, 2022
+[117]Yan Senbo, Song Xiaowen, Yu Chuer. SDCNet: Size Divide and Conquer Network for Salient Object Detection. Proceedings of the Asian Conference on Computer Vision, 2020
+[118]Baltac{\\i. Prior knowledge guided weakly supervised object detection and semantic segmentation. NULL, 2022
+[119]Fan Xinyue, Lin Yang, Zhang Chaoxi, Zhang Jia. Self-Erasing Network for Person Re-Identification. Sensors, 2021
+[120]Li Ruiwen, Mai Zheda, Trabelsi Chiheb, Zhang Zhibo, Jang Jongseong, Sanner Scott. TransCAM: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation. arXiv preprint arXiv:2203.07239, 2022
+[121]Kakogeorgiou Ioannis, Gidaris Spyros, Psomas Bill, Avrithis Yannis, Bursuc Andrei, Karantzalos Konstantinos, Komodakis Nikos. What to Hide from Your Students: Attention-Guided Masked Image Modeling. arXiv preprint arXiv:2203.12719, 2022
+[122]Schlemmer Heinz-Peter, Stiefelhagen Rainer. Self-Guided Multiple Instance Learning for Weakly Supervised Disease Classification and Localization in Chest Radiographs. NULL, NULL
+[123]Wang Nan, Shi Yuetian, Fang Jie, Yang Fanchao, Zhang Geng, Li Siyuan, Liu Xuebin. Expanded Edge Penalty Loss for Salient Object Detection. 2021 4th International Conference on Information Communication and Signal Processing (ICICSP), 2021
+[124]Zhang Xue, Wang Zheng, Hu Qinghua, Ren Jinchang, Sun Meijun. Boundary-aware High-resolution Network with region enhancement for salient object detection. Neurocomputing, 2020
+[125]Huang Yuxing, Shen Qiu, Fu Ying, You Shaodi. Weakly-supervised Semantic Segmentation in Cityscape via Hyperspectral Image. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021
+[126]Xie Jinheng, Hou Xianxu, Ye Kai, Shen Linlin. Cross Language Image Matching for Weakly Supervised Semantic Segmentation. arXiv preprint arXiv:2203.02668, 2022
+[127]Zhang Tianyi. Semantic segmentation with less annotation efforts. NULL, NULL
+[128]Chang Ruiheng, Wang Dong, Guo Haiyan, Ding Jia, Wang Liwei. Weakly-Supervised Ultrasound Video Segmentation with Minimal Annotations. International Conference on Medical Image Computing and Computer-Assisted Intervention, 2021
+[129]Chen Zhaozheng, Wang Tan, Wu Xiongwei, Hua Xian-Sheng, Zhang Hanwang, Sun Qianru. Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation. arXiv preprint arXiv:2203.00962, 2022
+[130]Cao Zhiyuan, Gao Yufei, Zhang Jiacai. Scale-aware Attention Network for Weakly Supervised Semantic Segmentation. Neurocomputing, 2022
+[131]Rojas Vilar Daniel. Segmentaci{\'o. NULL, 2021
